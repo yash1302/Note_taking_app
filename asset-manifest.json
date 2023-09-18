@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Note_taking_app/static/css/main.c021b630.css",
-    "main.js": "/Note_taking_app/static/js/main.fd9d0848.js",
+    "main.css": "/Note_taking_app/static/css/main.73e84faa.css",
+    "main.js": "/Note_taking_app/static/js/main.7a069b77.js",
     "index.html": "/Note_taking_app/index.html",
-    "main.c021b630.css.map": "/Note_taking_app/static/css/main.c021b630.css.map",
-    "main.fd9d0848.js.map": "/Note_taking_app/static/js/main.fd9d0848.js.map"
+    "main.73e84faa.css.map": "/Note_taking_app/static/css/main.73e84faa.css.map",
+    "main.7a069b77.js.map": "/Note_taking_app/static/js/main.7a069b77.js.map"
   },
   "entrypoints": [
-    "static/css/main.c021b630.css",
-    "static/js/main.fd9d0848.js"
+    "static/css/main.73e84faa.css",
+    "static/js/main.7a069b77.js"
   ]
 }
