@@ -2,7 +2,7 @@
   "name": "note-taking",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/yash1302/Note_taking_app.git",
+  "homepage": "http://yash1302.github.io/Note_taking_app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
