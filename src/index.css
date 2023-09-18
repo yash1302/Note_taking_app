@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+textarea:focus{
+  outline: none;
+}
+
+.save:hover{
+  background-color: #ededed;
+  cursor: pointer;
+
+}
+
+.dark-mode{
+  background-color: black;
+}
+
+.dark-mode h1{
+  color: white;
+}
