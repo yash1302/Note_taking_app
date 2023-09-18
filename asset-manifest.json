@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yash1302/Note_taking_app.git/static/css/main.c021b630.css",
+    "main.js": "/yash1302/Note_taking_app.git/static/js/main.fd9d0848.js",
+    "index.html": "/yash1302/Note_taking_app.git/index.html",
+    "main.c021b630.css.map": "/yash1302/Note_taking_app.git/static/css/main.c021b630.css.map",
+    "main.fd9d0848.js.map": "/yash1302/Note_taking_app.git/static/js/main.fd9d0848.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c021b630.css",
+    "static/js/main.fd9d0848.js"
+  ]
+}
