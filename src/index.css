@@ -13,9 +13,9 @@ textarea:focus{
 }
 
 .dark-mode{
-  background-color: black;
+  background-color: #1D1A39;
 }
 
 .dark-mode h1{
-  color: white;
+  color: #E8BCB9;
 }

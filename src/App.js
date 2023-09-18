@@ -70,8 +70,8 @@ function App() {
 
 
   return (
-    <div className={`${darkmode && 'dark-mode'}`}>
-      <div className="max-w-[960px] mx-auto min-h-[100vh]">
+    <div className={`${darkmode && 'dark-mode'} bg-[#E8BCB9]`}>
+      <div className="max-w-[960px] mx-auto min-h-[100vh] text-[#E8BCB9]">
         <Header handleToggleDarkMode={setdarkmode} />
         <NotesList
           notes={notes}

@@ -20,17 +20,17 @@ export default function NewNote({ handleAddNote }) {
     }
 
     return (
-        <div className=' bg-[#67d7cc]  rounded-xl p-4 min-h-[190px] flex flex-col justify-between text-lg'>
+        <div className=' bg-[#AE445A]  rounded-xl p-4 min-h-[190px] flex flex-col justify-between text-lg'>
             <textarea
                 cols=" 8"
                 rows="8"
                 placeholder='type a new note...'
                 value={noteText}
                 onChange={handleChange}
-                className='border-none resize-none bg-[#67d7cc]'></textarea>
+                className='border-none resize-none bg-[#AE445A]'></textarea>
             <div className='flex item-center justify-between'>
                 <small>{characterLimit - noteText.length} remaining</small>
-                <button className='save bg-[#e1e1e1] border-none rounded-xl py-[5px] px-[10px]' onClick={handleSaveClick}>Save</button>
+                <button className='save bg-[#E8BCB9] border-none rounded-xl py-[5px] px-[10px] text-[#AE445A]' onClick={handleSaveClick}>Save</button>
             </div>
         </div>
     )
